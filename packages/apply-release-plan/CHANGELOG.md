@@ -1,5 +1,11 @@
 # @changesets/apply-release-plan
 
+## 4.2.1
+
+### Patch Changes
+
+- [#534](https://github.com/atlassian/changesets/pull/534) [`366b7cb`](https://github.com/atlassian/changesets/commit/366b7cb810cf8dcfc0e0a6151ebc9f6124ed7459) Thanks [@adriencohen](https://github.com/adriencohen)! - Bump the required dependency range of [`@changesets/git`](https://github.com/atlassian/changesets/tree/master/packages/changelog-github) package as the new version has added `getCommitsThatAddFiles` which is used here.
+
 ## 4.2.0
 
 ### Minor Changes
